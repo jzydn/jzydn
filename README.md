@@ -1,4 +1,4 @@
-1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">Software Engineer (C++); LuaU & JS Programmer</h3>
 
 - 🔭 I’m currently working on **private things!**
